@@ -60,4 +60,4 @@ A sophisticated Python script that automates the entire process of data analysis
 
 ## Sample Output
 
-![Sales by Region Chart](output_reports/sales_by_region.png
+![Sales by Region Chart](./output_reports/sales_by_region.png)
